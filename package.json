@@ -1,0 +1,25 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgbocobo/CMSC100-U3L.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgbocobo/CMSC100-U3L/issues"
+  },
+  "homepage": "https://github.com/jgbocobo/CMSC100-U3L#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "needle": "^3.3.1"
+  },
+  "type": "module"
+}
